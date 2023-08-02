@@ -1,0 +1,25 @@
+*{
+    font-size: 100%;
+    font-weight: normal;
+    margin: 0;
+}
+
+
+body{
+    background-color: #f1ddf0;
+    font-size: larger;
+
+}
+
+table,th,td{
+    background-color: rgb(201, 240, 240);
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+h1{
+    color: blue;
+    font-size:xx-large;
+}
+       
+
